@@ -1,4 +1,5 @@
 (Requirements: please install Apache Maven and JDK)
+
 The API calls can be tested using Postman with the endpoints:
 GET:
 http://localhost:8080/items
