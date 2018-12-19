@@ -7,8 +7,10 @@ GET:http://localhost:8080/items
 POST:http://localhost:8080/items
 
 With a sample payload such as: 
-[{ id=1,
-id=2,
-id=3}]
+[
+{ "id": 1},
+{ "id": 2}
+]
+
 
 (timestamps are automatically generated) 
